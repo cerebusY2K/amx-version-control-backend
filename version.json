@@ -3,36 +3,42 @@
       {
         "name": "Al Mulla Exchange Android",
         "latest_version": "1.2.0",
+        "version_code": 12,
         "force_update": true,
         "skippable": false
       },
       {
         "name": "Al Mulla Exchange IOS",
         "latest_version": "1.1.0",
+        "version_code": 11,
         "force_update": true,
         "skippable": true
       },
       {
         "name": "Signature Pad",
         "latest_version": "2.0.0",
+        "version_code": 20,
         "force_update": false,
         "skippable": true
       },
       {
         "name": "SLA IOS",
         "latest_version": "3.1.0",
+        "version_code": 31,
         "force_update": true,
         "skippable": false
       },
       {
         "name": "SLA Android",
         "latest_version": "3.1.0",
+        "version_code": 31,
         "force_update": false,
         "skippable": true
       },
       {
         "name": "FX Delivery App",
         "latest_version": "4.0.0",
+        "version_code": 40,
         "force_update": true,
         "skippable": false
       }
